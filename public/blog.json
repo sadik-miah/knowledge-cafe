@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/PDZtTXF/Rectangle-1.png",
+        "title": "The Dawn of AI and Its Impact on Humanity's Future",
+        "author": "Emily Clarke",
+        "author_img": "https://i.ibb.co.com/TtvNdXZ/Ellipse-1.png",
+        "posted_date": "2024-10-01",
+        "reading_time": 5,
+        "hashTag": [
+            "#AI",
+            "#Future"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/S5RQtLj/Rectangle-1-1.png",
+        "title": "Journey through Space: Exploring the Final Frontier and Beyond",
+        "author": "James Oliver",
+        "author_img": "https://i.ibb.co.com/kMj3FnF/Ellipse-1-1.png",
+        "posted_date": "2024-09-25",
+        "reading_time": 17,
+        "hashTag": [
+            "#Space",
+            "#Exploration"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/m99NjRZ/Rectangle-1-2.png",
+        "title": "Cooking with Passion: Delicious Recipes to Brighten Your Day",
+        "author": "Sophia Martinez",
+        "author_img": "https://i.ibb.co.com/x6dLdt5/Ellipse-1-2.png",
+        "posted_date": "2024-10-02",
+        "reading_time": 10,
+        "hashTag": [
+            "#Cooking",
+            "#Recipes"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/d6cfDCf/3.png",
+        "title": "Tech Trends 2025: Innovations Shaping the Future of Our World",
+        "author": "Michael Chen",
+        "author_img": "https://i.ibb.co.com/kMj3FnF/Ellipse-1-1.png",
+        "posted_date": "2024-09-30",
+        "reading_time": 9,
+        "hashTag": [
+            "#Technology",
+            "#Innovation"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/ChmjJ0V/1.jpg",
+        "title": "Mystery of the Ancient Ruins: Discovering Secrets of the Past",
+        "author": "Lily Ahmed",
+        "author_img": "https://i.ibb.co.com/x6dLdt5/Ellipse-1-2.png",
+        "posted_date": "2024-10-03",
+        "reading_time": 7,
+        "hashTag": [
+            "#History",
+            "#Archaeology"
+        ]
+    }
+]
